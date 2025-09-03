@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Abdul Raheem - Resume</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <img src="abdul.jpg" alt="Abdul Raheem" class="profile-img">
+      <h1>Abdul Raheem</h1>
+      <p>Future IAS Officer | Web Developer</p>
+      <!-- Resume Download Button -->
+      <a href="AbdulRaheem_Resume.pdf" download class="btn">📄 Download Resume</a>
+    </div>
+  </header>
+
+  <section class="about container">
+    <h2>About Me</h2>
+    <p>
+      I am Abdul Raheem from Vaniyambadi, passionate about learning and preparing for the UPSC exam. 
+      Alongside my studies, I am exploring technology and web development to build modern solutions.
+    </p>
+  </section>
+
+  <section class="skills container">
+    <h2>Skills</h2>
+    <ul>
+      <li>UPSC Preparation & General Studies</li>
+      <li>Web Development (HTML, CSS, JavaScript)</li>
+      <li>Excel & Financial Analysis</li>
+      <li>Leadership & Communication</li>
+    </ul>
+  </section>
+
+  <section class="contact container">
+    <h2>Contact</h2>
+    <p>Email: <a href="mailto:abdul@example.com">abdul@example.com</a></p>
+    <p>Location: Vaniyambadi, Tamil Nadu</p>
+  </section>
+
+  <footer>
+    <p>© 2025 Abdul Raheem | Resume Website</p>
+  </footer>
+</body>
+</html>
